@@ -44,7 +44,20 @@ This GUI allows you to send a packet to a node, set/read the properties of a nod
 
 ## Papers
 
-Our approach is detailed in three scientific contributions:
+Our approach is detailed in four scientific contributions:
+```
+@article{Anadiotis:2019,
+  author = {{Angelos-Christos} Anadiotis and Laura Galluccio and Sebastiano Milardo and Giacomo Morabito and Sergio Palazzo},
+  title = {SD-WISE: A Software-Defined WIreless SEnsor network},
+  journal = {Computer Networks},
+  volume = {159},
+  pages = {84 - 95},
+  year = {2019},
+  doi = {10.1016/j.comnet.2019.04.029},
+  url = {http://www.sciencedirect.com/science/article/pii/S1389128618312192},
+}
+```
+
 ```
 @inproceedings{DiDio:2016,
   author    = {Paolo {Di Dio} and Salvatore Faraci and Laura Galluccio and Sebastiano Milardo and Giacomo Morabito and Sergio Palazzo and Patrizia Livreri},
