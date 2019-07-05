@@ -48,7 +48,7 @@ Our approach is detailed in four scientific contributions:
 ```
 @article{Anadiotis:2019,
   author = {{Angelos-Christos} Anadiotis and Laura Galluccio and Sebastiano Milardo and Giacomo Morabito and Sergio Palazzo},
-  title = {SD-WISE: A Software-Defined WIreless SEnsor network},
+  title = {{SD-WISE: A Software-Defined WIreless SEnsor network}},
   journal = {Computer Networks},
   volume = {159},
   pages = {84 - 95},
