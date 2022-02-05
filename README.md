@@ -1,5 +1,5 @@
 # sdn-wise-java
-[![Build Status](https://travis-ci.org/sdnwiselab/sdn-wise-java.svg?branch=master)](https://travis-ci.org/sdnwiselab/sdn-wise-java) [![Codacy Badge](https://api.codacy.com/project/badge/grade/0ff5041b31c44911b81060d17b3e6eba)](https://www.codacy.com/app/sdnwiselab/sdn-wise-java)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4681aa0b027a4eb79f935a08ba9bd01b)](https://www.codacy.com/gh/sdnwiselab/sdn-wise-java/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sdnwiselab/sdn-wise-java&amp;utm_campaign=Badge_Grade)
 
 The stateful Software Defined Networking solution for the Internet of Things. This repository contains a Java implementation of SDN-WISE. The repository is splitted into three folders:
 
