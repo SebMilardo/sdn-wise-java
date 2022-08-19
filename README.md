@@ -21,7 +21,7 @@ Clone the GitHub repository and use Maven to build `sdn-wise-java`:
 git clone https://github.com/sdnwiselab/sdn-wise-java.git
 cd sdn-wise-java
 mvn clean install
-cd ctrl/build
+cd ctrl/target
 java -jar sdn-wise-ctrl-X.X.X-jar-with-dependencies.jar 
 ```
 
